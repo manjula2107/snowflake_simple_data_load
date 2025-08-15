@@ -1,1 +1,11 @@
-
+id,name,email,phone,city,country,signup_date
+1,"John Smith","john.smith@email.com","+1-202-555-0171","New York","USA",2023-04-15
+2,"Alice Johnson","alice.j@email.com","+1-202-555-0134","Chicago","USA",2023-04-20
+3,"Michael Lee","michael.lee@email.com","+44-20-7946-0021","London","UK",2023-05-01
+4,"Sophia Brown","sophia.brown@email.com","+61-2-9374-4000","Sydney","Australia",2023-05-10
+5,"David Miller","david.m@email.com","+1-415-555-0198","San Francisco","USA",2023-05-15
+6,"Emma Davis","emma.d@email.com","+91-98765-43210","Chennai", "India",2023-06-01
+7,"Oliver Wilson","oliver.w@email.com","+64-9-555-0192","Auckland","New Zealand",2023-06-05
+8,"Mia Taylor","mia.t@email.com","+1-305-555-0147","Miami","USA",2023-06-20
+9,"Liam Martin","liam.m@email.com","+27-11-555-0193","Johannesburg","South Africa",2023-06-25
+10,"Isabella Garcia","isabella.g@email.com","+34-91-555-0199","Madrid","Spain",2023-07-01
