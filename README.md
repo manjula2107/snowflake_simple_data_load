@@ -28,3 +28,13 @@ Transformations (JOIN, Clean Data)
         │
         ▼
 Final Analytical Table (customer_orders)
+
+----
+
+## Technologies Used
+--**Snowflake**(data warehouse)
+--**SQL**(DDL,DML,Querying)
+--**Internal Stage**
+--**COPY INTO Command**
+
+----
